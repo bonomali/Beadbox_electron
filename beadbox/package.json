@@ -1,0 +1,16 @@
+{
+  "name": "electron-beadbox",
+  "version": "1.0.0",
+  "description": "Beadbox electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [  ],
+  "author": "somang",
+  "license": "",
+  "devDependencies": {
+    "electron": "^3.0.4"
+  }
+}
